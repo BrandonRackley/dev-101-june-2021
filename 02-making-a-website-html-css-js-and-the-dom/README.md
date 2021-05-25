@@ -1,46 +1,61 @@
-Day 2: HTML and CSS -- Lists of Things!
-===
+# Day 2: HTML and CSS -- Lists of Things!
 
 ## Keyboard 2
 
 > [Working with text](./notes/keyboard.md)
 
-## Definte outcomes and validate
+## Definite outcomes and validate
 
-- Ask: 
-    - What do I want to accomplish?
-    - How will I know I've accomplished it?
-- Break the outcome into parts:
-    - Is this the smallest possible outcome? If not, what is?
-    - How will I know I've accomplished it?
+-   Ask:
+    -   What do I want to accomplish?
+    -   How will I know I've accomplished it?
+-   Break the outcome into parts:
+    -   Is this the smallest possible outcome? If not, what is?
+    -   How will I know I've accomplished it?
 
-## Html Pages
+## Food for Thought
 
-> [Structured presentation!](./notes/html-pages.md)
+-   [Material Design...](https://material.io/components/cards/)
+-   [User Research](https://www.nngroup.com/articles/cards-component/)
 
+### JavaScript in the Browser
 
-## Html
+> [`<script>` and DevTools](./notes/script.md)
 
-> [Presenting content](./notes/html.md)
+### JS Types and Variables
 
-- Demo: Let's build our markdown from yesterday, but in HTML
+> [Types and Variables](./notes/types-vars.md)
 
-## CSS
+> [Objects and Arrays](./notes/objects-and-arrays.md)
 
-> [Styling content](./notes/css.md)
+## The DOM
 
-- Demo: Let's _style_ our markdown from yesterday with CSS
+> [Document Object Model](./notes/dom.md)
 
-## GhPages
+## Handling Events
 
-> [Show the world!](./notes/gh-pages.md)
+> [Events](./notes/handling-events.md)
 
-- Demo: Let's _deploy_ our html from today with GHPages!
+> [Functions](./notes/calling-functions.md)
 
-##  Food for Thought
-- [Material Design...](https://material.io/components/cards/)
-- [User Research](https://www.nngroup.com/articles/cards-component/)
+## Upgrade the nametag!
+
+Planning it out: 0) HTML setup
+
+1. Grab the dom elements (the input box and the button) in
+2. Add an event listener to the button
+3. Get access to user's input
+4. Use the user's input to "do something".
+5. Display the result to the user
+
+## Alchemy Repositroy template
+
+https://github.com/dpcairns/alchemy-bootstrap
+
+(You'll get an email error about tests--don't worry about it for today!)
+Note: This puts the css in a separate directory!
 
 ## Exercises
-- Nametag
-- Build-along from a design
+
+-   Nametag
+-   Better Nametag!

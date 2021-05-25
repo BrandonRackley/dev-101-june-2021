@@ -1,5 +1,4 @@
-Day 1: Developer Tools
-===
+# Day 1: Developer Tools
 
 ## Intro
 
@@ -23,8 +22,29 @@ Day 1: Developer Tools
 
 > [Integrated Development Environment (IDE)](./notes/ide.md)
 
+## Html Pages
+
+> [Structured presentation!](./notes/html-pages.md)
+
+## Html
+
+> [Presenting content](./notes/html.md)
+
+-   Demo: Let's build our markdown from yesterday, but in HTML
+
+## CSS
+
+> [Styling content](./notes/css.md)
+
+-   Demo: Let's _style_ our markdown from yesterday with CSS
+
+## GhPages
+
+> [Show the world!](./notes/gh-pages.md)
+
+-   Demo: Let's _deploy_ our html from today with GHPages!
+
 ### Exercises
 
-- Terminal Challenge
-- Documenting the Terminal Challenge in Markdown with Github
-
+-   Terminal Challenge
+-   Documenting the Terminal Challenge in Markdown with Github

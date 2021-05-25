@@ -1,48 +1,46 @@
-Day 3: JavaScript and the DOM
-===
+# Day 3: JavaScript and the DOM
 
 ## Keyboard 3
 
 > [Intra-app switching](./notes/keyboard.md)
 
-### JavaScript in the Browser
+### Setup ESLint
 
-> [`<script>` and DevTools](./notes/script.md)
+> [Setup ESLint](./notes/eslint.md)
 
-### JS Types and Variables
+### Functions
 
-> [Types and Variables](./notes/types-vars.md)
+> [Write functions!](./notes/functions.md)
 
-> [Objects and Arrays](./notes/objects-and-arrays.md)
+### Writing Tests
 
-## The DOM
+> [Free Code Camp, celcius to farenheit](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-> [Document Object Model](./notes/dom.md)
+**Demo: Let's add celcius to farenheit functionality to our calculator**
 
-## Handling Events
+> [Setting and validating expectations](./notes/tdd.md)
 
-> [Events](./notes/handling-events.md)
+### Refactoring code
 
-> [Functions](./notes/calling-functions.md)
+> [From casserole to a bento box](./notes/refactoring.md)
 
-## Upgrade the nametag!
+1. Make it work
+1. Make it good
+1. Make it fast
 
-Planning it out:
-0) HTML setup
-1) Grab the dom elements (the input box and the button) in 
-2) Add an event listener to the button
-3) Get access to user's input
-4) Use the user's input to "do something".
-5) Display the result to the user
+> [Refactor code!](./notes/code-refactoring.jpg)
 
-## Alchemy Repositroy template
+### Debugging
 
-https://github.com/dpcairns/alchemy-bootstrap
+> [Debugging Tips](./notes/debugging.md)
 
-(You'll get an email error about tests--don't worry about it for today!)
-Note: This puts the css in a separate directory!
+### Preview: Control Flow
 
-## Exercises
+> [Managing variation and repetition](./notes/control-flow.md)
 
-- Calculator App
-- Tested Functions
+### Exercises
+
+-   Calculator App
+-   Functions in the Browser
+-   Math functions with QUnit
+-   Tested Functions

@@ -1,61 +1,37 @@
 Keyboard ⌨️ 🔣
 ===
 
-## Working with Text ⌨️ 🔣
+## Intra-App ⌨️ 🔣
 
 ### OS
 
-* YMMV
+`CMD` means `CMD` on Mac and `CTRL` on Windows
 
-### Copy, Cut, Paste 
-
-Command|Meaning
----|---
-`CMD/CTRL` + `C` | Copy selected text
-`CMD/CTRL` + `X` | Cut selected text
-`CMD/CTRL` + `V` | Paste cut or copied text
-
-### Undo and Redo 
+### New 
 
 Command|Meaning
 ---|---
-`CMD/CTRL` + `Z` | Undo
-`SHIFT` + `CMD/CTRL` + `Z` | Redo
+`CMD` + `N` | New Window (or Tab if single Window)
+`CMD` + `T` | New Tab on current Window
+`CMD` + `SHIFT` + `T` | Reopen last closed tab
 
-### Select 
-
-#### OSX 
-
-Command|Meaning
----|---
-`CMD` + `A` | Select All
-`SHIFT` + arrow key | extend/retract selection
-`OPTION/ALT` + arrow key | move by one word
-`CMD` + right/left arrow key | move to beginning/end of line
-`CMD` + up/down arrow key | move to beginning/end of file
-`SHIFT` any above | extend/retract selection
-
-#### Windows
+### Close 
 
 Command|Meaning
 ---|---
-`CTRL` + `A` | Select All
-`SHIFT` + arrow key | extend/retract selection
-`CTRL` + arrow key | move by one word
-`SHIFT` any above | extend/retract selection
+`CMD` + `W` | Close current Tab
+`CMD` + `SHIFT` + `W` | Close current Window
 
-### Bonus VSCode!
-
-No line selection required!
+### Switching
 
 Command|Meaning
 ---|---
-`CMD/CTRL` + `,` | open user settings
-`CMD/CTRL` + `F` | search file
-`CMD/CTRL` +  `SHIFT` + `F` | search WHOLE PROJECT
-`OPTION/ALT` + up/down arrow | move line
-`SHIFT` + `OPTION/ALT` + up/down arrow | copy lines
-`CMD/CTRL` + `SHIFT` + K | delete line
-`CMD/CTRL` + `D` | add next token
-`CMD/CTRL` + `K` **then** `D` | skip to next token
+`CMD` (or `ALT`) + <code>`</code> | Switch Window
+`CMD` + `SHIFT` + `[` | Switch Tab
+`CMD` + `SHIFT` + `]` | Reverse Switch Tab
 
+Alternatively . . . 
+Command|Meaning
+---|---
+`CTRL` + `TAB` | Switch Tab
+`CTRL` + `SHIFT` + `TAB` | Go back one Tab
