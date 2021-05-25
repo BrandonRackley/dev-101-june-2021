@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+.header {
+    height: 200px;
+    background-color: #b9d94a;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+    padding-left: 22px;
+    padding-top: 15px;
+    font-size: 35px;
+}
+
+body {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/61GJHS7W7lL._SL1083_.jpg);
+    padding-top: 250px;
+}
+
+.article {
+    width: 160px;
+    height: 800px;
+    border-style: solid;
+    border: 2px indianred;
+    padding-left: 65px;
+    padding-top: 60px;
+}
+
+#five {
+    visibility: hidden;
+}
+
+#songResults{
+    visibility: hidden;
+    font-weight: normal;
+    font-size: 28px;
+    margin-top: 75px;
+}
+
