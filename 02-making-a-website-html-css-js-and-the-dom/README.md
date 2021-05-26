@@ -4,7 +4,7 @@
 
 > [Working with text](./notes/keyboard.md)
 
-## Definite outcomes and validate
+## Define outcomes and validate
 
 -   Ask:
     -   What do I want to accomplish?
