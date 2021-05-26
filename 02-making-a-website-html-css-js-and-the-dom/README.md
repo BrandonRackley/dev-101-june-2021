@@ -1,4 +1,4 @@
-# Day 2: HTML and CSS -- Lists of Things!
+# Day 2: Making a Website: HTML, CSS, JavaScript and the DOM
 
 ## Keyboard 2
 
@@ -40,13 +40,14 @@
 
 ## Upgrade the nametag!
 
-Planning it out: 
+Planning it out:
+
 1. HTML setup
 1. Grab the dom elements (the input box and the button) in
-2. Add an event listener to the button
-3. Get access to user's input
-4. Use the user's input to "do something".
-5. Display the result to the user
+1. Add an event listener to the button
+1. Get access to user's input
+1. Use the user's input to "do something".
+1. Display the result to the user
 
 ## Alchemy Repository template
 

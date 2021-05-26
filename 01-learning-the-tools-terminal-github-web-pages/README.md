@@ -1,4 +1,4 @@
-# Day 1: Developer Tools
+# Day 1: Learning the Tools- Kick-Off, Terminal, Github, and Web Pages in VSCode
 
 ## Intro
 

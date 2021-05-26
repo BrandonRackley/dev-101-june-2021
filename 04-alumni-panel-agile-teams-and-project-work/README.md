@@ -1,4 +1,4 @@
-# Agile Practices and Teams
+# Day 4: What's it like on the job? Alumni Panel, Agile Practices and Teams
 
 ## Agile vs Waterfall
 
@@ -17,18 +17,19 @@ https://www.blueoceanworkshops.com/agile-adaptive-vs-waterfall-predictive-projec
 ## Agile Practices
 
 ### Work in Sprints
- Ship 'working' (if not final) software at the end of a sprint. Set goals, assign tickets, and trust devs to 'get it done'.
+
+Ship 'working' (if not final) software at the end of a sprint. Set goals, assign tickets, and trust devs to 'get it done'.
 
 ### Agile Teamwork - one screen, many devlopers.
 
-Pair programming and mob programming are common practices. It sounds like it might be a waste of developer time, but it actually _is faster_ in the long run than individual coding. 
+Pair programming and mob programming are common practices. It sounds like it might be a waste of developer time, but it actually _is faster_ in the long run than individual coding.
 
-- Why is it faster?
-    1) Sharing knowledge: everybody becomes a generalist, nobody gets stuck into a corner of the project.
-    1) Fewer distractions--continuous communication requires continuous focus
-    1) Lateral thinking is easier in groups. Individuals tends to have their own 'style' for solving problems. Groups mix lots of these styles together.
+-   Why is it faster?
+    1. Sharing knowledge: everybody becomes a generalist, nobody gets stuck into a corner of the project.
+    1. Fewer distractions--continuous communication requires continuous focus
+    1. Lateral thinking is easier in groups. Individuals tends to have their own 'style' for solving problems. Groups mix lots of these styles together.
 
-### Product owner vs scrum main 
+### Product owner vs scrum main
 
 https://www.youtube.com/watch?v=y8OnoxKotPQ&feature=share
 
@@ -37,7 +38,6 @@ https://www.youtube.com/watch?v=y8OnoxKotPQ&feature=share
 At the beginning of a sprint (however long that is in your organizatiopn), devs go and look at a pile of 'tickets', like the one below:
 
 ![https://docs.gitlab.com/ee/user/project/integrations/jira.html](./ticket.png)
-
 
 In the background, somebody called a 'product owner' has (supposedly) been spending their whole work week creating tickets and and organizing them by priority in response to client feedback and an ever-changing, long-term product roadmap.
 
@@ -49,4 +49,4 @@ At the sprint kickoff, devs take on as many tickets as they think they can handl
 
 ## Exercises
 
-- [Madlib Project](./exercises/PROJECT-madlib-challenge.md)
+-   [Madlib Project](./exercises/PROJECT-madlib-challenge.md)

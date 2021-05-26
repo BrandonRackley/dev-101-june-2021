@@ -1,4 +1,4 @@
-# Day 3: JavaScript and the DOM
+# Day 3: From Hobbyist to Professional: Modules, Functions and Testing
 
 ## Keyboard 3
 
