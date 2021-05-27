@@ -64,7 +64,9 @@ Repeat this process for subtraction, multiplication, and division.
     ```
 
 1. Launch your code using LiveServer and navigate to `http://127.0.0.1:5500/test/` -- you should see an error in your console because it cannot find `math-utils.js` -- we'll fix that next!
-   <img src="test-errors.png" alt="test_errors2" width="500"/>
+ <p align="center">
+  <img src="test-errors.png" alt="test_errors2" width="500"/>
+  </p>
 
 1. Create the `math-utils.js` file and export an empty `add` function. You should now get a more useful testing error.
 
@@ -72,7 +74,9 @@ Repeat this process for subtraction, multiplication, and division.
     export function add(num1, num2) {}
     ```
 
+    <p align="center">
     <img src="test-errors2.png" alt="test_errors" width="500"/>
+    </p>
 
 1. Add at least one more test case to verify that the functions return what you _expect_ them to return
 
