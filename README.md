@@ -16,33 +16,39 @@
   - For Windows users, WSL is generally considered better since it's closer to an actual Linux distribution. However (since it's Linux) it has weird, difficult edges. If WSL is causing you a lot of problems, download Git/Bash for easy mode.
 
 # Schedule
-## Monday: Learning the tools
-- Terminal
--  Github
+## Tuesday: Learning the tools
+- Terminal - simple terminal challenge
+- Github
+- VSCode - push up repo with some markdown in README.md
+- HTML/CSS Intro - copy website lab
+    - Attributes 
+    - CSS Basics (selectors and styles)
+    - Flexbox and Grid
+    - Simple CSS Animations
 
-## Tuesday: Making a Website
- - Semantic HTML
- - Attributes 
- - CSS Basics (selectors and styles)
- - Flexbox and Grid
- - Simple CSS Animations
+## Wednesday: Making a Website
+- Rest of HTML/CSS - Static Name tag
+- JS basics
+- Calling functions (and passing arguments)
+- The DOM 
+- Evented Name Tag
 
-## Wednesday: Putting it all Together!
- - JS basics
- - Calling functions (and passing arguments)
- - The DOM 
- - Calculator App
+## Thursday: Putting it all Together! From Hobbyist to Professional
+- Calculator App
+- Ryan and Career Track!
+- Declaring vs Calling functions
+- Testing Code with QUnit
+- Refactoring (Calculator App)
 
-## Thursday: From Hobbyist to Professional
-  - Ryan and Career Track!
-  - Declaring vs Calling functions
-  - Testing Code with QUnit
-  - Refactoring (Calculator App)
+```js
+span.textContent = Number(input1.value) + Number(input2.value);
+span.textContent = add(Number(input1.value), Number(input2.value));
+```
 
 ## Friday: What's it like on the job?
-  - Alumni Panel
-  - Agile Practices vs Waterfall
-  - Mad Libs Mob
+- Alumni Panel
+- Agile Practices vs Waterfall
+- Mad Libs Mob
 
 ---
 
