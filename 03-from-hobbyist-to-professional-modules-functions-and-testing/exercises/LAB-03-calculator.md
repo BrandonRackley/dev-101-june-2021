@@ -3,7 +3,9 @@
 ## Standard Setup Process
 
 1. Use the [bootstrap template](https://github.com/dpcairns/alchemy-bootstrap-template) to create a new repo called `lab-03-calculator` on Github
-   ![](./use-template.png)
+ <p align="center">
+     <img src="use-template.png" alt="template" width="500"/>
+ </p>
 1. Copy the URL of the new repo
 1. From the command line (terminal) clone your repo:
     1. Check with `pwd` that you are in correct directory for labs
