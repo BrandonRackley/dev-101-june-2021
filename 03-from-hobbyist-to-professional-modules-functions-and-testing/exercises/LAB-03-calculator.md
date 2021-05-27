@@ -43,30 +43,30 @@ Repeat this process for subtraction, multiplication, and division.
 
 1. Replace the example test in example.test.js with your addition test
 
-```js
-import { add } from '../math-utils.js';
+    ```js
+    import { add } from '../math-utils.js';
 
-const test = QUnit.test;
+    const test = QUnit.test;
 
-test('test add function', (expect) => {
-    //Arrange
-    // Set up your arguments and expectations
-    const expected = 4;
+    test('test add function', (expect) => {
+        //Arrange
+        // Set up your arguments and expectations
+        const expected = 4;
 
-    //Act
-    // Call the function you're testing and set the result to a const
-    const actual = add(2, 2);
+        //Act
+        // Call the function you're testing and set the result to a const
+        const actual = add(2, 2);
 
-    //Expect
-    // Make assertions about what is expected versus the actual result
-    expect.equal(actual, expected);
-});
-```
+        //Expect
+        // Make assertions about what is expected versus the actual result
+        expect.equal(actual, expected);
+    });
+    ```
 
-5. Launch your code using LiveServer and navigate to `http://127.0.0.1:5500/test/` -- you should see an error in your console because it cannot find `math-utils.js` -- we'll fix that next!
+1. Launch your code using LiveServer and navigate to `http://127.0.0.1:5500/test/` -- you should see an error in your console because it cannot find `math-utils.js` -- we'll fix that next!
    <img src="test-errors.png" alt="test_errors2" width="500"/>
 
-6. Create the `math-utils.js` file and export an empty `add` function. You should now get a more useful testing error.
+1. Create the `math-utils.js` file and export an empty `add` function. You should now get a more useful testing error.
 
     ```js
     export function add(num1, num2) {}
@@ -74,16 +74,16 @@ test('test add function', (expect) => {
 
     <img src="test-errors2.png" alt="test_errors" width="500"/>
 
-7. Add at least one more test case to verify that the functions return what you _expect_ them to return
+1. Add at least one more test case to verify that the functions return what you _expect_ them to return
 
     **_ACP your code with commit message "TDD for add function" and push it to your main branch!_**
 
-8. Add an event listener to your button: - Make sure to add an id to your button - In app.js, create a variable that will hold your button using `document.getElementById`
+1. Add an event listener to your button: - Make sure to add an id to your button - In app.js, create a variable that will hold your button using `document.getElementById`
 
     **_Validation step_**: log out 'Hello world! I am the add button' to validate that your event handler worked.
     **_ACP your code with commit message "Adding event listener" and push it to your main branch!_**
 
-9. On click, you will need to be able to get the current number the user has typed into the inputs.
+1. On click, you will need to be able to get the current number the user has typed into the inputs.
 
     - Get the inputs with `document.getElementById`
     - Get the value by using `.value` on the element and store in a variable
@@ -91,14 +91,14 @@ test('test add function', (expect) => {
 
     **Validation step**: Log out the values of the two inputs inside your event listener
 
-10. On click, you need to add the two values that the user typed in.
+1. On click, you need to add the two values that the user typed in.
 
     - Import your add function from `math-utils.js` and call it using the number constants created above
     - **Validation step**: log out the correct value
 
     **_ACP your code with commit message "Getting values and calling add function" and push it to your main branch!_**
 
-11. On click, you'll need to put the correct answer into the using its `textContent` property and the `=` assignment operator.
+1. On click, you'll need to put the correct answer into the using its `textContent` property and the `=` assignment operator.
 
     **_ACP your code with commit message "Updating HTML with answer" and push it to your main branch!_**
 
