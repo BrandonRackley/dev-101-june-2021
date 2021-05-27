@@ -1,9 +1,12 @@
-Day 4: Professional Javascript: Testing and Refactoring
-===
+# Day 3: From Hobbyist to Professional: Modules, Functions and Testing
+
+## Keyboard 3
+
+> [Intra-app switching](./notes/keyboard.md)
+
 ### Setup ESLint
 
 > [Setup ESLint](./notes/eslint.md)
-
 
 ### Functions
 
@@ -17,16 +20,16 @@ Day 4: Professional Javascript: Testing and Refactoring
 
 > [Setting and validating expectations](./notes/tdd.md)
 
-
 ### Refactoring code
 
 > [From casserole to a bento box](./notes/refactoring.md)
 
-1) Make it work
-1) Make it good
-1) Make it fast
+1. Make it work
+1. Make it good
+1. Make it fast
 
 > [Refactor code!](./notes/code-refactoring.jpg)
+
 ### Debugging
 
 > [Debugging Tips](./notes/debugging.md)
@@ -35,8 +38,9 @@ Day 4: Professional Javascript: Testing and Refactoring
 
 > [Managing variation and repetition](./notes/control-flow.md)
 
-### Exercises 
-    - Refactor the calculator
-    - Functions in the Browser
-    - Math functions with QUnit
+### Exercises
 
+-   Calculator App
+-   Functions in the Browser
+-   Math functions with QUnit
+-   Tested Functions
