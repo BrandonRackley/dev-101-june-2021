@@ -66,9 +66,10 @@ Repeat this process for subtraction, multiplication, and division.
     ```
 
 1. Launch your code using LiveServer and navigate to `http://127.0.0.1:5500/test/` -- you should see an error in your console because it cannot find `math-utils.js` -- we'll fix that next!
- <p align="center">
-  <img src="test-errors.png" alt="test_errors2" width="500"/>
-  </p>
+    <!-- prettier-ignore -->
+    <p align="center">
+        <img src="test-errors.png" alt="test_errors2" width="500"/>
+    </p>
 
 1. Create the `math-utils.js` file and export an empty `add` function. You should now get a more useful testing error.
 
@@ -87,6 +88,7 @@ Repeat this process for subtraction, multiplication, and division.
 1. Add an event listener to your button: - Make sure to add an id to your button - In app.js, create a variable that will hold your button using `document.getElementById`
 
     **_Validation step_**: log out 'Hello world! I am the add button' to validate that your event handler worked.
+
     **_ACP your code with commit message "Adding event listener" and push it to your main branch!_**
 
 1. On click, you will need to be able to get the current number the user has typed into the inputs.
@@ -100,11 +102,14 @@ Repeat this process for subtraction, multiplication, and division.
 1. On click, you need to add the two values that the user typed in.
 
     - Import your add function from `math-utils.js` and call it using the number constants created above
-    - **Validation step**: log out the correct value
+
+    **Validation step**: log out the correct value
 
     **_ACP your code with commit message "Getting values and calling add function" and push it to your main branch!_**
 
 1. On click, you'll need to put the correct answer into the using its `textContent` property and the `=` assignment operator.
+
+    **Validation step**: Confirm the answer is updating on the HTML
 
     **_ACP your code with commit message "Updating HTML with answer" and push it to your main branch!_**
 
