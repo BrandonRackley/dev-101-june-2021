@@ -20,7 +20,7 @@ https://www.blueoceanworkshops.com/agile-adaptive-vs-waterfall-predictive-projec
 
 Ship 'working' (if not final) software at the end of a sprint. Set goals, assign tickets, and trust devs to 'get it done'.
 
-### Agile Teamwork - one screen, many devlopers.
+### Agile Teamwork - one screen, many developers.
 
 Pair programming and mob programming are common practices. It sounds like it might be a waste of developer time, but it actually _is faster_ in the long run than individual coding.
 
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=y8OnoxKotPQ&feature=share
 
 ### Tickets
 
-At the beginning of a sprint (however long that is in your organizatiopn), devs go and look at a pile of 'tickets', like the one below:
+At the beginning of a sprint (however long that is in your organization), devs go and look at a pile of 'tickets', like the one below:
 
 ![https://docs.gitlab.com/ee/user/project/integrations/jira.html](./ticket.png)
 

@@ -1,7 +1,6 @@
 Lab 03b: Let's build a calculator!
 ===
 
-
 ## Standard Setup Process
 
 1. Create a repo called `lab-03b-calculator` on Github
@@ -24,6 +23,8 @@ It might look a little like this:
 Repeat this process for subtraction, multiplication, and division.
 
 ![](./outcome-validation.png)
+
+
 
 ## Some guidance:
 
