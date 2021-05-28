@@ -5,16 +5,17 @@ JavaScript Syntax
 
 Type | Examples | Notes
 ---|---|---
-Number | `7` | floating point
-Boolean | `true` and `false` | truthy/falsey
-String | `'hello world'` | 
-Undefined | `undefined` | default function return, non-existent object properties
-Null | `null` | "missing" object
-Objects | `{ name: 'felix', type: 'cat' }` | key-value pairs
+Number | `7` | numeric values
+Boolean | `true` and `false` | checking conditions (truthy/falsey)
+String | `'hello world'` | Content for users, getting/setting properties
+Objects | `input` | useful things we can use to get information or update display
+Functions | `() => result.textContent = input.value` | callbacks, code on demand
+Null | `null` | "missing" object (`document.getElementById('id-not-found')`)
+Undefined | `undefined` | non-existent or no-value object properties
 Arrays | `['apple', 'banana', 'orange' ]` | list of things
-Functions | function add(x, y) { return x + y; } | code on demand
 
 ## Variables
+
 Variables are like a named box where you put things.
 
 For example, typing 3.14159 over and over can cause errors and waste time.

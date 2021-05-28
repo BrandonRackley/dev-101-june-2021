@@ -14,13 +14,13 @@
 
 > [Managing code](./notes/github.md)
 
-### Markdown
-
-> [Write docs the developers way](./notes/markdown.md)
-
 ### VSCode
 
 > [Integrated Development Environment (IDE)](./notes/ide.md)
+
+### Markdown
+
+> [Write docs the developers way](./notes/markdown.md)
 
 ## Html Pages
 
@@ -30,22 +30,22 @@
 
 > [Presenting content](./notes/html.md)
 
--   Demo: Let's build our markdown from yesterday, but in HTML
+-   Demo: Let's build our markdown, but in HTML
 
 ## CSS
 
 > [Styling content](./notes/css.md)
 
--   Demo: Let's _style_ our markdown from yesterday with CSS
+-   Demo: Let's _style_ our html with CSS
 
 ## GhPages
 
 > [Show the world!](./notes/gh-pages.md)
 
--   Demo: Let's _deploy_ our html from today with GHPages!
+-   Demo: Let's _deploy_ our html with GHPages!
 
 ### Exercises
 
 -   Terminal Challenge
--   Documenting the Terminal Challenge in Markdown with Github
+-   Notes Repo in Markdown with Github
 -   Craigslist Layout

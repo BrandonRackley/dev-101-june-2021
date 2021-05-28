@@ -4,7 +4,7 @@
 
 > [Working with text](./notes/keyboard.md)
 
-## Define outcomes and validate
+## Define Outcomes and Validatation
 
 -   Ask:
     -   What do I want to accomplish?
@@ -36,7 +36,7 @@
 
 > [Events](./notes/handling-events.md)
 
-> [Functions](./notes/calling-functions.md)
+> [Callback Functions](./notes/calling-functions.md)
 
 ## Upgrade the nametag!
 

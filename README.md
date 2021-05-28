@@ -19,30 +19,31 @@
 
 ## Schedule
 
-### Tuesday: Learning the tools && making a webpage
+### **Day 1 Tuesday:** Learning the Tools && Making a Webpage
 
 -   Terminal
 -   Github
--   Semantic HTML
--   Attributes
--   CSS Basics
--   Flexbox and Grid
+-   VSCode
+-   Web Pages with HTML and CSS
+-   Layout with Flexbox and Grid
 
-### Wednesday: Putting it all together! HTML, CSS, JS and the DOM
+### **Day 2 Wednesday:** Putting it all together! HTML, CSS, JS and the DOM
 
--   Simple CSS Animations
--   JS basics
--   Calling functions (and passing arguments)
+-   HTML Name Tag
+-   JS Basics
 -   The DOM
+-   Dynamic Name Tag
 
-### Thursday: From Hobbyist to Professional!
+### **Day 3 Thursday:** From Hobbyist to Professional!
 
 -   Meet the Software Engineers!
--   Declaring vs Calling functions
+-   Functions!
+        - Calling functions (and passing arguments)
+        - Declaring vs Calling
 -   Testing Code with QUnit
 -   Calculator App
 
-### Friday: What's it like on the job?
+### **Day 4 Friday:** What's it like on the job?
 
 -   Alumni Panel
 -   Agile Practices
